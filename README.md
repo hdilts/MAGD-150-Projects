@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# MAGD-150-Projects
+## Read Me File
 
-You can use the [editor on GitHub](https://github.com/hdilts/MAGD-150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Enclosed are examples of my code for MAGD 150 at UWW
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Example 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Mirror Example](https://github.com/hdilts/MAGD-150-Projects/blob/gh-pages/s19magd150_lab06_Dilts/s19magd150_lab06_Dilts.pde)
 
-```markdown
-Syntax highlighted code block
+Classes are used to produce a replica of Pong
 
-# Header 1
-## Header 2
-### Header 3
+## Example 2
 
-- Bulleted
-- List
+[Mirror Example 2](https://github.com/hdilts/MAGD-150-Projects/blob/gh-pages/s19magd150_lab08_Dilts%202/s19magd150_lab08_Dilts.pde)
 
-1. Numbered
-2. List
+Use of text to create a movie poster 
 
-**Bold** and _Italic_ and `Code` text
+## Example 3
 
-[Link](url) and ![Image](src)
-```
+[Mirror Example 3](https://github.com/hdilts/MAGD-150-Projects/blob/gh-pages/s19magd150lab03_Dilts/s19magd150lab03_Dilts.pde)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Simulation of a bubble wand to change color on distance from the center 
 
-### Jekyll Themes
+## Example 4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hdilts/MAGD-150-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Mirror Example 4](https://github.com/hdilts/MAGD-150-Projects/blob/gh-pages/s19magd150lab05_Dilts/s19magd150lab05_Dilts.pde)
 
-### Support or Contact
+Use of buttons to represent different universes 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Example 5
+
+[Mirror Example 5](https://github.com/hdilts/MAGD-150-Projects/blob/gh-pages/s19magd150lab09_Dilts/s19magd150lab09_Dilts.pde)
+
+Using the computer camera to make a mirror appear on a button press
